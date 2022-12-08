@@ -1,0 +1,33 @@
+.counter{
+    padding-top: 1000px;
+    padding-left: 950px;
+    display: flex;
+}
+
+.counter>li{
+    padding: 1px;
+}
+
+.counter-image{
+    height: 90%;
+    width: 120%;
+}
+
+.note{
+    padding-top: 10px;
+    display: flex;
+}
+
+.note>li{
+    padding: 5px;
+    height: 200%;
+    width: 160%;
+    text-align: center;
+    text-wid
+}
+
+h1{
+    width: 50%;
+    margin: 2px;
+    padding-right: 5px;
+}
